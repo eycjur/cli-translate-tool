@@ -12,5 +12,5 @@ sudo ln -s $(pwd)/cli-display-help/hel /usr/local/bin/hel
 ## Usage
 
 ```bash
-hel [command]
+[command] | T
 ```
